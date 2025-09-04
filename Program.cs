@@ -165,7 +165,6 @@ public class Pessoa
         Console.WriteLine("=========================\n");
     }
 
-    // helpers
     internal void AddHabilidade(string nome) => Add(Habilidades, nome);
     internal void AddPapel(string nome) => Add(Papeis, nome);
 
